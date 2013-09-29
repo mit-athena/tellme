@@ -1,4 +1,4 @@
-debathena-tellme (1.4.2-1) UNRELEASED; urgency=low
+debathena-tellme (1.4.2-1) unstable; urgency=low
 
   [ Jonathan Reed ]
   * Bump debian/compat to 6
@@ -8,8 +8,10 @@ debathena-tellme (1.4.2-1) UNRELEASED; urgency=low
 
   [ Alexander Chernyakhovsky ]
   * Switch to non-native package
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (quilt)
 
- -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:28:16 -0400
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:28:33 -0400
 
 debathena-tellme (1.4.1) unstable; urgency=low
 
